@@ -3,6 +3,7 @@ title: Styleguide
 menus: header
 layout: page
 permalink: /styleguide/
+# visible: False
 ---
 
 

@@ -1,104 +1,139 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Nima Hosseini Dashtbayaz
+subtitle: Personal Website
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Description  
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://nimahsn.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
     - text: Home
       url: /
-    - text: About
-      url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
+    # - Education: Education
+    #   url: /education
+    # - text: Experiences
+    #   url: /experiences
+    # - text: Projects
+    #   url: /projects
+    # - text: Download Résumé
+    #   url: /CV_NimaHosseini.pdf
+    # - text: About
+      # url: /about
+    # - text: Blog
+      # url: /blog
+    # - text: Gallery
+      # url: /gallery
+    # - text: Shop
+      # url : /shop
+    # - text: Contact
+    #   url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
+author_resume: https://github.com/nimahsn/resume_nimahsn/raw/main/CV_NimaHosseini.pdf
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: Nima Hosseini Dashtbayaz
+author_bio: >-
+  B.Sc. student in Computer Science at Amirkabir University of Technology, interested in Machine Learning and Deep Learning. Currently studying Computer Vision, but also interested in Reinforcement Learning and Generative Models.
+  <br>Cycling, movies, and musics are my free time companions.
+author_email: "nimahsnd@gamil.com"
+author_location: Iran
+author_website_url: "https://nimahsn.github.io"
+typewrite-text: I'm a Computer Science student, interested in Machine Learning and Deep Learning
+
+author_cv: https://github.com/DanySK/Curriculum-Vitae/releases/latest/download/curriculum.pdf
+
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
+            - company_name: Amirkabir University
+              company_logo: aut.png
               company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              designation: Undergraduate Teaching Assistant
+              description: Introduction to the Theory of Computation, instructed by Dr. Zare Mirakabad. Spring 2020
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Amirkabir University
+              company_logo: mcs_ssc.png
+              company_url: https://aut.ac.ir
+              designation: Students' Scientific Chapter
+              description: >-
+               Mathematics and Computer Science Faculty. Head of Research Comittee.
+              visibility: true
+            - company_name: Amirkabir University
+              company_logo: halgheh.png
+              company_url: https://aut.ac.ir
+              designation: Chief Editor of Halgheh Journal (CS Section)
+              description: >-
+               Chief Editor of Halgheh Journal, students' scietific journal of Mathematics and Computer Science faculty.
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: aut.png
+                college_name: Amirkabir University of Technology
+                college_url: https://aut.ac.ir
+                college_degree: Computer Science
+                description: Bachelor of Science
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_title: Recommender System for MovieLens Dataset
+                # project_thumbnail: gamershub.png
+                project_description: >-
+                  <p>Artificial Intelligence course</p>
+                  <p>A recommender based on tags and ratings for MovieLens dataset, which uses AutoEncoders.</p>
+                project_url: <a href="https://github.com/nimahsn/AI-Course-Projects/tree/main/report06-Recommender">View on GitHub</a>
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_title: >-
+                  Leasy: An Android Application for Sharing Educational Content
+                # project_thumbnail: hack4r.PNG
+                project_description: >-
+                  <p>Software Design Course</p>
+                  <p>The project was managed using Scrum Methodology.</p>
+                project_url: <a href="https://github.com/leasy-app">View on GitHub</a>
+                visibility: true
+              - project_title: >-
+                  Client - Server Model with Shared Memory
+                # project_thumbnail: hack4r.PNG
+                project_description: >-
+                  <p>Operating Systems Course</p>
+                  <p>Implementation of a client and a server, that the server can handle many clients simultaneously.</p>
+                project_url: <a href="https://github.com/nimahsn/OS-Shared-Memory-project">View on GitHub</a>
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: SyntheticNima
+github_username:  nimahsn
+# facebook_username: johndoe
+linkedin_username: nimahsn
+# behance_username: johndoe
+instagram_username: nimahsnd
+# medium_username: johndoe
+telegram_username: nimahsn
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+# hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: nimahsn
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+# formspree_email: nimahsnd@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
-# olvy_organization: devlopr
-# olvy_widget_type: sidebar
+# olvy_organization: Nima
+# olvy_widget_type: embed
 
 # syntax highlighter
 markdown: kramdown
@@ -131,25 +166,25 @@ paginate_path: "/blog/page/:num/"
 #   permalinks:
 #     category: '/category/:name/'
 
-collections:
-  products:
-    output: true
-  authors:
-    output: true
+# collections:
+#   products:
+#     output: true
+#   authors:
+#     output: true
 
-defaults:
-  -
-    scope:
-      path: "gallery"
-    values:
-      permalink: /:path/:basename:output_ext
-  -
-    scope:
-      path: ""
-      type: authors
-    values:
-      layout: author
-      permalink: /blog/authors/:slug
+# defaults:
+#   -
+#     scope:
+#       path: "gallery"
+#     values:
+#       permalink: /:path/:basename:output_ext
+#   -
+#     scope:
+#       path: ""
+#       type: authors
+#     values:
+#       layout: author
+#       permalink: /blog/authors/:slug
 
 # Build settings
 plugins:
