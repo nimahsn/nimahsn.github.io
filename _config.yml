@@ -50,7 +50,7 @@ author_cv: https://github.com/DanySK/Curriculum-Vitae/releases/latest/download/c
 author_work_experiences:
             - company_name: Amirkabir University
               company_logo: aut.png
-              company_url: https://google.com
+              company_url: https://aut.ac.ir
               designation: Undergraduate Teaching Assistant
               description: Introduction to the Theory of Computation, instructed by Dr. Zare Mirakabad. Spring 2020
               visibility: true
@@ -63,7 +63,7 @@ author_work_experiences:
               visibility: true
             - company_name: Amirkabir University
               company_logo: halgheh.png
-              company_url: https://aut.ac.ir
+              company_url: https://maths4maryams.org/halghe/
               designation: Chief Editor of Halgheh Journal (CS Section)
               description: >-
                Chief Editor of Halgheh Journal, students' scietific journal of Mathematics and Computer Science faculty.
