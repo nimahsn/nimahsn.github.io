@@ -38,7 +38,7 @@ author: Nima Hosseini Dashtbayaz
 author_bio: >-
   B.Sc. student in Computer Science at Amirkabir University of Technology, interested in Machine Learning and Deep Learning. Currently studying Computer Vision, but also interested in Reinforcement Learning and Generative Models.
   <br>Cycling, movies, and musics are my free time companions.
-author_email: "nimahsnd@gamil.com"
+author_email: "nimahsnd@gmail.com"
 author_location: Iran
 author_website_url: "https://nimahsn.github.io"
 typewrite-text: I'm a Computer Science student, interested in Machine Learning and Deep Learning
@@ -48,25 +48,52 @@ author_cv: https://github.com/DanySK/Curriculum-Vitae/releases/latest/download/c
 
 # Experiences
 author_work_experiences:
+            - company_name: Data Science Innovation Center, Amirkabir University
+              company_logo: aut.png
+              company_url: https://aut.ac.ir
+              designation: Research Assistant
+              description: >-
+                July 2021 - Present
+                <p>
+                Real-time driver beahvior monitoring using Computer Vision
+                </p>
+                <ul>
+                <li>Supervisor: Dr. Mohammad Akbari</li>
+                </ul>
+              visibility: true
             - company_name: Amirkabir University
               company_logo: aut.png
               company_url: https://aut.ac.ir
               designation: Undergraduate Teaching Assistant
-              description: Introduction to the Theory of Computation, instructed by Dr. Zare Mirakabad. Spring 2020
+              description: >-
+                Spring 2021
+                <p>
+                Introduction to the Theory of Computation
+                </p>
+                <ul>
+                <li>Instructor: Dr. Fatemeh Zare Mirakabad</li>
+                </ul>
               visibility: true
             - company_name: Amirkabir University
               company_logo: mcs_ssc.png
               company_url: https://aut.ac.ir
               designation: Students' Scientific Chapter
               description: >-
-               Mathematics and Computer Science Faculty. Head of Research Comittee.
+                September 2020 - September 2021
+                <p>
+                Mathematics and Computer Science Faculty</p>
+                </p>
+                <ul>
+                <li>Head of Research Comittee</li>
+                </ul>
               visibility: true
             - company_name: Amirkabir University
               company_logo: halgheh.png
               company_url: https://maths4maryams.org/halghe/
               designation: Chief Editor of Halgheh Journal (CS Section)
               description: >-
-               Chief Editor of Halgheh Journal, students' scietific journal of Mathematics and Computer Science faculty.
+                January 2021 - Present
+                <p>Students' scietific journal of Mathematics and Computer Science faculty</p>
               visibility: true
 
 # Education
@@ -84,7 +111,7 @@ author_project_details:
                 # project_thumbnail: gamershub.png
                 project_description: >-
                   <p>Artificial Intelligence course</p>
-                  <p>A recommender based on tags and ratings for MovieLens dataset, which uses AutoEncoders.</p>
+                  <p>A movie recommender system based on tags and ratings for MovieLens dataset, which uses AutoEncoders.</p>
                 project_url: <a href="https://github.com/nimahsn/AI-Course-Projects/tree/main/report06-Recommender">View on GitHub</a>
                 visibility: true
               - project_title: >-
@@ -105,14 +132,14 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: SyntheticNima
+# twitter_username: SyntheticNima
 github_username:  nimahsn
 # facebook_username: johndoe
 linkedin_username: nimahsn
 # behance_username: johndoe
-instagram_username: nimahsnd
+# instagram_username: nimahsnd
 # medium_username: johndoe
-telegram_username: nimahsn
+# telegram_username: nimahsn
 # dribbble_username: johndoe
 # flickr_username: johndoe
 
