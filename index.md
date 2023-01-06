@@ -2,122 +2,35 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hi there! I'm Nima, a Computer Science MSc student at the University of Western Ontario. I'm interested in Machine Learning, Computer Vision, and Scientific ML. Currently, I'm working on Physics-Informed Neural Networks for solving PDEs. Before that, I studied transfer learning and domain adaptation methods in computer vision for my undegrad thesis.
 
-[Link to another page](./another-page.html).
+## Projects
 
-There should be whitespace between paragraphs.
+* Tensorflow 2 Implementation of PINNs: [Github](https://github.com/nimahsn/pinns_tf2) Keras and TF2 implementation for PINNs, including Burger's, Schrodinger's, Pisson's, Wave, Heat, and Advection equations so far.
+* Few-shot Domain Adaptation and Cross-Domain FSL, A Survey. Part of my undergrad thesis work at Amirkabir University of Technology.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+* MSc in Computer Science, University of Western Ontario, Sep 2022 - Present
+  * Supervisor: Prof. Boyu Wang
+  * Vector Scholorship in AI Recipient
+* BSc in Computer Science, Amirkabir University of Technology, Sep 2018 - Aug 2022
+  * GPA: 4.0/4.0
+  * Thesis: Few-shot Domain Adaptation and Cross-Domain Few-shot Learning, A Survey
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Publications
 
-## Header 2
+:construction: :construction:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Hobbies
 
-### Header 3
+* Cycling
+* Musics
+* Casually playing games (Skyrim, Witcher, etc.)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Contact
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* Email: nimahsn at hotmail dot com, nhosse5 at uwo dot ca
+* LinkedIn: [nimahsn](https://www.linkedin.com/in/nimahsn/)
+* Twitter: [@nimahsnd](https://twitter.com/nimahsnd)
+* Github: [nimahsn](https://github.com/nimahsn/)
