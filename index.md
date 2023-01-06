@@ -20,13 +20,13 @@ Hi there! I'm Nima, a Computer Science MSc student at the University of Western 
 
 ## Publications
 
-:construction: :construction:
+🚧 Under Construction :)
 
 ## Hobbies
 
 * Cycling
 * Musics
-* Casually playing games (Skyrim, Witcher, etc.)
+* Casually playing games (Skyrim is my all time favorite)
 
 ## Contact
 
