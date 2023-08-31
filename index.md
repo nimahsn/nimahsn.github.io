@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi there! I'm Nima, a Computer Science MSc student at the University of Western Ontario. I'm interested in Machine Learning, Computer Vision, and Scientific ML. Currently, I'm working on Physics-Informed Neural Networks for solving PDEs. Before that, I studied transfer learning and domain adaptation methods in computer vision for my undegrad thesis.
+Hi there! I'm Nima, a Computer Science PhD student at the University of Western Ontario. My main interests are Deep Learning and Transfer Learning methods. Currently, I'm working on Physics-Informed Neural Networks and Neural Operators, e.g. DeepONet. Before, I studied transfer learning and domain adaptation methods in computer vision as a part of my bachelor's thesis.
 
 ## Projects
 
@@ -11,12 +11,16 @@ Hi there! I'm Nima, a Computer Science MSc student at the University of Western 
 
 ## Education
 
-* MSc in Computer Science, University of Western Ontario, Sep 2022 - Present
+* PhD in Computer Science, Western University, Sep 2023 - Present
   * Supervisor: Prof. Boyu Wang
-  * Vector Scholorship in AI Recipient
+* MSc in Computer Science, University of Western Ontario, Sep 2022 - Aug 2023
+  * Supervisor: Prof. Boyu Wang
+  * Vector Scholarship in AI Recipient
+  * Transferred to PhD
 * BSc in Computer Science, Amirkabir University of Technology, Sep 2018 - Aug 2022
   * GPA: 4.0/4.0
   * Thesis: Few-shot Domain Adaptation and Cross-Domain Few-shot Learning, A Survey
+  * Member of the students' scientific society (math and CS) and chief editor of the [Halgheh magazine (in Persian)](https://math.aut.ac.ir/content/8212/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%85%D8%AC%D9%84%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%D8%AC%D9%85%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%DB%8C)
 
 ## Publications
 
@@ -24,13 +28,13 @@ Hi there! I'm Nima, a Computer Science MSc student at the University of Western 
 
 ## Hobbies
 
-* Cycling
-* Musics
-* Casually playing games (Skyrim is my all time favorite)
+* Mountain Biking
+* Hiking
+* Video Games
 
 ## Contact
 
-* Email: nimahsn at hotmail dot com, nhosse5 at uwo dot ca
+* Email: nimahsn@hotmail.com, nhosse5@uwo.ca
 * LinkedIn: [nimahsn](https://www.linkedin.com/in/nimahsn/)
 * Twitter: [@nimahsnd](https://twitter.com/nimahsnd)
 * Github: [nimahsn](https://github.com/nimahsn/)
