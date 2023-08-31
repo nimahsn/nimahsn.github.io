@@ -11,7 +11,7 @@ Hi there! I'm Nima, a Computer Science PhD student at the University of Western 
 
 ## Education
 
-* PhD in Computer Science, Western University, Sep 2023 - Present
+* PhD in Computer Science, University of Western Ontario, Sep 2023 - Present
   * Supervisor: Prof. Boyu Wang
 * MSc in Computer Science, University of Western Ontario, Sep 2022 - Aug 2023
   * Supervisor: Prof. Boyu Wang

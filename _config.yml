@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: Nima Hosseini Dashtbayaz
 logo: /assets/img/profile-photo.jpg
-description: MSc Computer Science Student at University of Western Ontario
+description: PhD student in Computer Science at Western University
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
