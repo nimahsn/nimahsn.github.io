@@ -24,7 +24,7 @@ Hi there! I'm Nima, a Computer Science PhD student at the University of Western 
 
 ## Publications
 
-🚧 Under Construction :)
+[1] **Nima Hosseini Dashtbayaz**, Ghazal Farhani, Boyu Wang, and Charles Ling. "Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations," International Joint Conference on Artificial Intelligence (IJCAI), 2024
 
 ## Hobbies
 
