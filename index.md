@@ -2,7 +2,11 @@
 layout: default
 ---
 
-Hi there! I'm Nima, a Computer Science PhD student at the University of Western Ontario. My main interests are Deep Learning and Transfer Learning methods. Currently, I'm working on Physics-Informed Neural Networks and Neural Operators, e.g. DeepONet. Before, I studied transfer learning and domain adaptation methods in computer vision as a part of my bachelor's thesis.
+I'm Nima, a Computer Science PhD student at the University of Western Ontario exploring deep learning applications in scientific computing, particularly for solving partial differential equations (PDEs) with Physics Informed Neural Networks (PINNs) and Neural Operators. Currently, I'm working on designing transfer learning methods to make knowledge transferable between physical domains. Outside of research, I enjoy hitting the trails on my mountain bike or unwinding with video games.
+
+## Publications
+
+[1] **Nima Hosseini Dashtbayaz**, Ghazal Farhani, Boyu Wang, and Charles Ling. "Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations," International Joint Conference on Artificial Intelligence (IJCAI), 2024 ([arXiv](https://arxiv.org/abs/2405.01680))
 
 ## Projects
 
@@ -22,19 +26,9 @@ Hi there! I'm Nima, a Computer Science PhD student at the University of Western 
   * Thesis: Few-shot Domain Adaptation and Cross-Domain Few-shot Learning, A Survey
   * Member of the students' scientific society (math and CS) and chief editor of the [Halgheh magazine (in Persian)](https://math.aut.ac.ir/content/8212/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%85%D8%AC%D9%84%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%D8%AC%D9%85%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%DB%8C)
 
-## Publications
-
-[1] **Nima Hosseini Dashtbayaz**, Ghazal Farhani, Boyu Wang, and Charles Ling. "Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations," International Joint Conference on Artificial Intelligence (IJCAI), 2024
-
-## Hobbies
-
-* Mountain Biking
-* Hiking
-* Video Games
-
 ## Contact
 
-* Email: nimahsn@hotmail.com, nhosse5@uwo.ca
+* Email: nhosse5@uwo.ca, nimahsnd@gmail.com
 * LinkedIn: [nimahsn](https://www.linkedin.com/in/nimahsn/)
 * Twitter: [@nimahsnd](https://twitter.com/nimahsnd)
 * Github: [nimahsn](https://github.com/nimahsn/)
