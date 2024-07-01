@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm Nima, a Computer Science PhD student at the University of Western Ontario exploring deep learning applications in scientific computing, particularly for solving partial differential equations (PDEs) with Physics Informed Neural Networks (PINNs) and Neural Operators. Currently, I'm working on designing transfer learning methods to make knowledge transferable between physical domains. Outside of research, I enjoy hitting the trails on my mountain bike or unwinding with video games.
+I'm Nima, a Computer Science PhD student at the University of Western Ontario exploring deep learning applications in scientific computing, particularly for solving partial differential equations (PDEs) with Physics Informed Neural Networks (PINNs) and Neural Operators. Currently, I'm working on designing transfer learning methods to make knowledge transferable between physical domains. Outside of research, I enjoy hitting the trails on my bike and climbing boulders.
 
 ## Publications
 
