@@ -23,7 +23,7 @@ I'm Nima, a Computer Science PhD student at the University of Western Ontario ex
   * Transferred to PhD
 * BSc in Computer Science, Amirkabir University of Technology, Sep 2018 - Aug 2022
   * GPA: 4.0/4.0
-  * Thesis: Few-shot Domain Adaptation and Cross-Domain Few-shot Learning, A Survey
+  * Thesis: Few-shot Domain Adaptation and Cross-Domain Few-shot Learning, A Survey ([Manuscript](./assets//Survery_DomainAdaptation.pdf))
   * Member of the students' scientific society (math and CS) and chief editor of the [Halgheh magazine (in Persian)](https://math.aut.ac.ir/content/8212/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%85%D8%AC%D9%84%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%D8%AC%D9%85%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%DB%8C)
 
 ## Contact
