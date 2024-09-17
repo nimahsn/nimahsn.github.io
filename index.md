@@ -8,10 +8,9 @@ I'm Nima, a Computer Science PhD student at the University of Western Ontario ex
 
 [1] **Nima Hosseini Dashtbayaz**, Ghazal Farhani, Boyu Wang, and Charles Ling. "Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations," International Joint Conference on Artificial Intelligence (IJCAI), 2024 ([arXiv](https://arxiv.org/abs/2405.01680))
 
-## Projects
-
-* Tensorflow 2 Implementation of PINNs: [Github](https://github.com/nimahsn/pinns_tf2) Keras and TF2 implementation for PINNs, including Burger's, Schrodinger's, Pisson's, Wave, Heat, and Advection equations so far.
-* Few-shot Domain Adaptation and Cross-Domain FSL, A Survey. Part of my undergrad thesis work at Amirkabir University of Technology.
+## Experience
+* Research Intern at Autodesk (Toronto), Sep 2024 - Present
+  * Physics-Informed Machine Learning Research Internship
 
 ## Education
 
@@ -25,6 +24,11 @@ I'm Nima, a Computer Science PhD student at the University of Western Ontario ex
   * GPA: 4.0/4.0
   * Thesis: Few-shot Domain Adaptation and Cross-Domain Few-shot Learning, A Survey ([Manuscript](./assets//Survery_DomainAdaptation.pdf))
   * Member of the students' scientific society (math and CS) and chief editor of the [Halgheh magazine (in Persian)](https://math.aut.ac.ir/content/8212/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%85%D8%AC%D9%84%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%D8%AC%D9%85%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%DB%8C)
+
+## Projects
+
+* Tensorflow 2 Implementation of PINNs: [Github](https://github.com/nimahsn/pinns_tf2) Keras and TF2 implementation for PINNs, including Burger's, Schrodinger's, Pisson's, Wave, Heat, and Advection equations so far.
+* Few-shot Domain Adaptation and Cross-Domain FSL, A Survey. Part of my undergrad thesis work at Amirkabir University of Technology.
 
 ## Contact
 
